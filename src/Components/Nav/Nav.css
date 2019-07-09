@@ -37,3 +37,7 @@
 .Nav a:hover {
   color: #2BAAE2;
 }
+
+.Nav li {
+  padding: .5rem;
+}
